@@ -119,5 +119,5 @@ Python 3 · pandas · seaborn · matplotlib · scipy · statsmodels · Jupyter N
 
 ## Autor
 
-**[Tu nombre]** · Data Analyst  
+**[Carlos Carrillo Aguayo]** · Data Analyst  
 [LinkedIn](https://www.linkedin.com/in/carlosagca-data/) · [Más proyectos](https://github.com/carlosagca93-ui)
