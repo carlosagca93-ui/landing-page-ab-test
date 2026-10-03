@@ -100,7 +100,7 @@ Nivel de significancia en todas las pruebas: α = 0.05.
 ## Cómo reproducirlo
 
 1. Clona o descarga este repositorio.
-2. Asegúrate de tener `landing_experiment.csv`. El notebook lo lee de `/datasets/landing_experiment.csv` (ruta del entorno del bootcamp); ajusta la ruta de la celda de carga a donde guardes el archivo.
+2. Los datos ya están incluidos en (data/landing_experiment.csv). El notebook usa la ruta relativa data/landing_experiment.csv; ejecútalo desde la raíz del repositorio.
 3. Instala las dependencias:
 
 ```bash
